@@ -1,8 +1,3 @@
-## Hi there 👋
-
-<!--
-**LukeSchmidt1/LukeSchmidt1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Recent Computer Science graduate passionate about building scalable software solutions.
 Skilled in Java, Python, and JavaScript, with ongoing learning in React and Node.js for
 modern web development. Currently developing a Job Application Tracker in Java (Maven, MVC) 
