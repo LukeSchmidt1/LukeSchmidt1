@@ -1,0 +1,34 @@
+## Hi there 👋
+
+<!--
+**LukeSchmidt1/LukeSchmidt1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Recent Computer Science graduate passionate about building scalable software solutions.
+Skilled in Java, Python, and JavaScript, with ongoing learning in React and Node.js for
+modern web development. Currently developing a Job Application Tracker in Java (Maven, MVC) 
+featuring a Naive Bayes model to intelligently parse job application emails and classify 
+their status (submitted, rejected, next phase, offer). Starting a side project in web development 
+to expand my frontend and backend skills. Eager to contribute to innovative teams and continue 
+growing as a software engineer.
+
+Skills:
+
+Java (Maven, MVC design pattern)
+Python (data analysis, machine learning basics)
+JavaScript (core language fundamentals)
+React (learning, building practical projects)
+Node.js (learning, backend fundamentals)
+Machine Learning (Naive Bayes classifier, email parsing)
+Web Development (front-end and back-end basics)
+Projects:
+
+Job Application Tracker (Java, Maven)
+
+Implements MVC architecture for robust code organization.
+Integrates a Naive Bayes model to parse email notifications and classify application status.
+Automates tracking and updates, streamlining the job search process.
+Web Development Side Project
+
+Exploring full-stack development using React and Node.js.
+Building dynamic web apps to enhance user experience and backend integration.
+LinkedIn: lschmidt1
